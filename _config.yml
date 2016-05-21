@@ -1,0 +1,28 @@
+name: whvtc
+favicon: null
+layout_spectrum: 0.8113774168305099
+typography_spectrum: 0.21893654647283256
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.5871140868403018
+  lightness: 0.6972835648339242
+  saturation: 0.1358596479985863
+  rhythmicContrast: 0.5492926053702831
+purpose: []
